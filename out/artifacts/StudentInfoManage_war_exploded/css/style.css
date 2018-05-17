@@ -1,0 +1,85 @@
+
+html,body,form,input,span,p,img,ul,ol,li,dl,dt,dd {
+	margin:0;
+	padding:0;
+	border:0
+}
+ul,ol {
+	list-style:none
+}
+
+a {
+	text-decoration:none
+}
+a:hover {
+	text-decoration:underline
+}
+
+#DK_top,#DK_wxin,#DK_wshare {
+	z-index:2;
+	width:30px;
+	height:30px;
+	right:10px;
+	position:fixed;
+	cursor:pointer;
+	_position:absolute;
+	_bottom:auto;
+	_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)))
+}
+
+#DK_wxin { bottom:130px; right:10px;
+}
+#DK_wxin a {
+	background:url(../img/sbtn.png) 0 0px;
+	right:0;
+	float:left;
+	width:30px;
+	height:30px;
+	text-indent:-9999px
+}
+#DK_wxin a:hover {
+	background:url(../img/sbtn.png) -30px -0px
+}
+#DK_wshare {bottom:100px; right:10px;
+}
+#DK_wshare a {
+	background:url(../img/sbtn.png) 0 -30px;
+	width:30px;
+	height:30px;
+	right:0;
+	float:left;
+	text-indent:-9999px
+}
+#DK_wshare a:hover {
+	background:url(../img/sbtn.png) -30px -30px
+}
+
+.DK_wxin,.DK_wshare {
+	position:relative;
+	z-index:2
+}
+.DK_wxin a:hover .DK_wxinh,.DK_wshare a:hover .DK_wshareh {
+	display:block
+}
+.DK_wxin .DK_wxinh {
+	position:absolute;
+	display:none;
+	right:30px;
+	bottom:0px;
+	width:70px;
+	height:30px;
+	background:url(../img/fankui.png) 0 0 no-repeat #ff6060;
+	color:#FFF; border-radius:4px 0 0 4px;
+}
+.DK_wshare .DK_wshareh {
+	position:absolute;
+	display:none;
+	right:36px;
+	bottom:-85px;
+	width:100px;
+	height:120px;
+	background:url(../img/weixin.png) no-repeat
+}
+
+
+#topcontrol{background:#4c4c4c; height:30px; width:30px; border-radius:4px;}

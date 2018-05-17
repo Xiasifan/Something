@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StudentInfoManage:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef8f4280-0fd4-45fc-8195-58870189c5ce" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_studentInfo@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_studentInfo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_studentInfo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_studentinfo: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="E:\IdeaProjects\StudentInfoManage\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="JsonUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Util/JsonUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Util/ResponseUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Web/StudentListServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradeDeleteServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Web/gradeDeleteServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="courseDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dao/courseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-837">
+              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoreSaveServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Web/ScoreSaveServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Web/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dao/StudentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1971">
+              <caret line="82" column="46" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>email</find>
+      <find>StringUtil</find>
+      <find>openStudentAddDialog</find>
+      <find>page</find>
+      <find>rows</find>
+      <find>form1</find>
+      <find>login</find>
+      <find>searchStudent</find>
+      <find>autocookie</find>
+      <find>useruserName</find>
+      <find>req</find>
+      <find>openStudentModifyDialog</find>
+      <find>saveStudent</find>
+      <find>openCourseModifyDialog</find>
+      <find>stuNo</find>
+      <find>gradeName</find>
+      <find>s_stuNo</find>
+      <find>s_gradeId</find>
+      <find>scoreList</find>
+      <find>dg</find>
+      <find>gradeId</find>
+      <find>xxxservlet</find>
+      <find>validateCode</find>
+      <find>changeImg</find>
+      <find>session</find>
+      <find>createTypeFlag</find>
+      <find>load</find>
+      <find>url</find>
+      <find>String</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>String_util</replace>
+      <replace>phoneNo</replace>
+      <replace>g</replace>
+      <replace>t_course</replace>
+      <replace>autoCookie</replace>
+      <replace>userName</replace>
+      <replace>request</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Util/Responseutil.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8147075a-0ce1-4f23-babb-644b710d170e/console.sql" />
+        <option value="$PROJECT_DIR$/src/Web/GradeDeleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/Bean/Grade.java" />
+        <option value="$PROJECT_DIR$/src/Web/GradeSaveServlet.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de48ef5f-99d6-4392-b7bb-03ff1d1c891a/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/Web/StudentDeleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/Util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/Bean/Student.java" />
+        <option value="$PROJECT_DIR$/src/Web/GradeListServlet.java" />
+        <option value="$PROJECT_DIR$/src/Bean/Hahaha.java" />
+        <option value="$PROJECT_DIR$/src/Web/gradeDeleteServlet.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de48ef5f-99d6-4392-b7bb-03ff1d1c891a/console_2.sql" />
+        <option value="$PROJECT_DIR$/src/Web/StudentListServlet.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de48ef5f-99d6-4392-b7bb-03ff1d1c891a/console_3.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de48ef5f-99d6-4392-b7bb-03ff1d1c891a/console_4.sql" />
+        <option value="$PROJECT_DIR$/src/Dao/GradeDao.java" />
+        <option value="$PROJECT_DIR$/src/Web/StudentSaveServlet.java" />
+        <option value="$PROJECT_DIR$/src/Dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/Filter/AutoLoginFilter.java" />
+        <option value="$PROJECT_DIR$/src/Bean/Course.java" />
+        <option value="$PROJECT_DIR$/src/Web/CourseSaveServlet.java" />
+        <option value="$PROJECT_DIR$/src/Web/GradeComboListServlet.java" />
+        <option value="$PROJECT_DIR$/web/studentInfoManage.jsp" />
+        <option value="$PROJECT_DIR$/src/Web/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/Web/xxxServlet.java" />
+        <option value="$PROJECT_DIR$/src/Web/CourseListServlet.java" />
+        <option value="$PROJECT_DIR$/src/Web/ScoreListServlet.java" />
+        <option value="$PROJECT_DIR$/src/Dao/ScoreDao.java" />
+        <option value="$PROJECT_DIR$/src/Util/VerifyCodeUtil.java" />
+        <option value="$PROJECT_DIR$/src/Util/VerifyCodeUtils.java" />
+        <option value="$PROJECT_DIR$/src/Web/AuthImage.java" />
+        <option value="$PROJECT_DIR$/src/Web/CheckServlet.java" />
+        <option value="$PROJECT_DIR$/web/Logout.jsp" />
+        <option value="$PROJECT_DIR$/src/Web/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/courseInfoManage.jsp" />
+        <option value="$PROJECT_DIR$/web/gradeInfoManage.jsp" />
+        <option value="$PROJECT_DIR$/web/scoreInfoManage.jsp" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de48ef5f-99d6-4392-b7bb-03ff1d1c891a/console_6.sql" />
+        <option value="$PROJECT_DIR$/src/Web/LogOutServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/main.jsp" />
+        <option value="$PROJECT_DIR$/src/Util/DBUtil.java" />
+        <option value="$PROJECT_DIR$/src/Web/DrawImageServlet.java" />
+        <option value="$PROJECT_DIR$/src/Bean/PageBean.java" />
+        <option value="$PROJECT_DIR$/src/Util/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/Dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/src/Util/ResponseUtil.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/Dao/courseDao.java" />
+        <option value="$PROJECT_DIR$/src/Web/ScoreSaveServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="525" />
+    <option name="y" value="30" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="courseDao" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+              <item name="ScoreSaveServlet" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentListServlet" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="StudentInfoManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentInfoManage" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\StudentInfoManage\web\img" />
+      <recent name="E:\IdeaProjects\StudentInfoManage\web\css" />
+      <recent name="E:\IdeaProjects\StudentInfoManage\src\Dao" />
+      <recent name="E:\IdeaProjects\StudentInfoManage\src\Web" />
+      <recent name="E:\IdeaProjects\StudentInfoManage\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\StudentInfoManage\web" />
+      <recent name="E:\IdeaProjects\StudentInfoManage\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="DBUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.DBUtil" />
+      <module name="StudentInfoManage" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="VerifyCodeUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.VerifyCodeUtils" />
+      <module name="StudentInfoManage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="StudentInfoManage:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Web" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_(1)_StudentInfoManage" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8230" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="8231" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="StudentInfoManage:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Web" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="StudentInfoManage:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Web" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_StudentInfoManage_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5389" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="5390" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Tomcat Server.Unnamed (1)" />
+      <item itemvalue="Application.DBUtil" />
+      <item itemvalue="Application.VerifyCodeUtils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VerifyCodeUtils" />
+        <item itemvalue="Application.DBUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8f4280-0fd4-45fc-8195-58870189c5ce" name="Default" comment="" />
+      <created>1512481402290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512481402290</updated>
+      <workItem from="1512481407372" duration="3225000" />
+      <workItem from="1512562588064" duration="267000" />
+      <workItem from="1512606853715" duration="611000" />
+      <workItem from="1512607500807" duration="2543000" />
+      <workItem from="1512612048572" duration="1464000" />
+      <workItem from="1512613841145" duration="10952000" />
+      <workItem from="1512631934009" duration="2349000" />
+      <workItem from="1512709605421" duration="8572000" />
+      <workItem from="1512885783333" duration="588000" />
+      <workItem from="1512889326742" duration="282000" />
+      <workItem from="1512968363244" duration="3361000" />
+      <workItem from="1512974571933" duration="14891000" />
+      <workItem from="1512991630360" duration="2943000" />
+      <workItem from="1512995499570" duration="3408000" />
+      <workItem from="1513001031925" duration="72000" />
+      <workItem from="1513006055436" duration="5845000" />
+      <workItem from="1513038628654" duration="10945000" />
+      <workItem from="1513054627726" duration="8108000" />
+      <workItem from="1513065156128" duration="8394000" />
+      <workItem from="1513080723804" duration="503000" />
+      <workItem from="1513125240782" duration="1144000" />
+      <workItem from="1513136758732" duration="1832000" />
+      <workItem from="1513140828993" duration="1151000" />
+      <workItem from="1513143374360" duration="1370000" />
+      <workItem from="1513146279733" duration="2029000" />
+      <workItem from="1513150746874" duration="4213000" />
+      <workItem from="1513160043416" duration="1686000" />
+      <workItem from="1513163345436" duration="1897000" />
+      <workItem from="1513211617024" duration="2507000" />
+      <workItem from="1513214422869" duration="565000" />
+      <workItem from="1513215020263" duration="1375000" />
+      <workItem from="1513216457885" duration="1923000" />
+      <workItem from="1513253615609" duration="39000" />
+      <workItem from="1513253700394" duration="148000" />
+      <workItem from="1513259413597" duration="743000" />
+      <workItem from="1513260720977" duration="741000" />
+      <workItem from="1513766564227" duration="5327000" />
+      <workItem from="1513772895628" duration="34000" />
+      <workItem from="1513816352183" duration="59000" />
+      <workItem from="1513816476464" duration="7976000" />
+      <workItem from="1513831022705" duration="4893000" />
+      <workItem from="1513840621557" duration="1333000" />
+      <workItem from="1513857433388" duration="829000" />
+      <workItem from="1513858340659" duration="120000" />
+      <workItem from="1513917832110" duration="1381000" />
+      <workItem from="1514130250937" duration="1766000" />
+      <workItem from="1514162251319" duration="5626000" />
+      <workItem from="1514170293264" duration="4203000" />
+      <workItem from="1514178839168" duration="16572000" />
+      <workItem from="1514215728038" duration="1297000" />
+      <workItem from="1514217207001" duration="271000" />
+      <workItem from="1514252566182" duration="175000" />
+      <workItem from="1514252931778" duration="6271000" />
+      <workItem from="1514259266264" duration="1297000" />
+      <workItem from="1514265401660" duration="13192000" />
+      <workItem from="1514287374276" duration="2765000" />
+      <workItem from="1514334796959" duration="3689000" />
+      <workItem from="1514338532996" duration="197000" />
+      <workItem from="1514338764699" duration="3707000" />
+      <workItem from="1514345500021" duration="3581000" />
+      <workItem from="1514422565319" duration="594000" />
+      <workItem from="1514425551349" duration="15477000" />
+      <workItem from="1514443076050" duration="2894000" />
+      <workItem from="1514447863741" duration="1896000" />
+      <workItem from="1514450160971" duration="2910000" />
+      <workItem from="1514507583687" duration="6206000" />
+      <workItem from="1514617398129" duration="1236000" />
+      <workItem from="1514861782468" duration="3028000" />
+      <workItem from="1514946389773" duration="3171000" />
+      <workItem from="1515815081040" duration="20000" />
+      <workItem from="1520219192013" duration="847000" />
+      <workItem from="1520297477167" duration="422000" />
+      <workItem from="1520298144848" duration="625000" />
+      <workItem from="1520299656379" duration="786000" />
+      <workItem from="1520433772937" duration="120000" />
+      <workItem from="1520434054727" duration="79000" />
+      <workItem from="1520469656804" duration="333000" />
+      <workItem from="1522206922237" duration="1594000" />
+      <workItem from="1522208763982" duration="1378000" />
+      <workItem from="1522212892219" duration="49000" />
+      <workItem from="1522295668985" duration="669000" />
+      <workItem from="1522298885285" duration="40000" />
+      <workItem from="1522639623101" duration="1337000" />
+      <workItem from="1522647005365" duration="500000" />
+      <workItem from="1523610546917" duration="74000" />
+      <workItem from="1524709178788" duration="829000" />
+      <workItem from="1524713435618" duration="817000" />
+      <workItem from="1525854647054" duration="168000" />
+      <workItem from="1525943835303" duration="20000" />
+      <workItem from="1526007533984" duration="1347000" />
+      <workItem from="1526261315596" duration="8713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="257426000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.50208336" side_tool="true" weight="0.3219178" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32876712" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="18" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="8" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3296875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39269406" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.31563845" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41304347" weight="0.26822916" />
+      <window_info id="Web" order="5" sideWeight="0.5869565" side_tool="true" weight="0.12291667" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295325" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="JRebel Executor" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" x="91" y="91" width="1738" height="848" id="Documentation" order="9" type="FLOATING" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="18" visible="true" weight="0.32876712" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="JRebel Console" order="9" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Web/CourseListServlet.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Web/ScoreListServlet.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/scoreInfoManage(1).jsp" />
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/catalina.jar!/org/apache/catalina/core/DefaultInstanceManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/catalina.jar!/org/apache/catalina/core/StandardWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="541" selection-start-line="541" selection-end-line="541" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bean/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/AuthImageServlet.java" />
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/xxxServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/Filter/AutoLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/ScoreDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/ScoreListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/VerifyCodeUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/Web/AuthImage.java" />
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/tomcat-websocket.jar!/org/apache/tomcat/websocket/server/WsFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/catalina.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/CheckServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="84" column="42" lean-forward="true" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/CourseListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="e#791#840#1" expanded="true" />
+            <element signature="e#844#873#1" expanded="true" />
+            <element signature="e#970#1013#1" expanded="true" />
+            <element signature="e#1016#1059#1" expanded="true" />
+            <element signature="e#1062#1143#1" expanded="true" />
+            <element signature="e#1146#1168#1" expanded="true" />
+            <element signature="e#1206#1243#1" expanded="true" />
+            <element signature="e#1247#1341#1" expanded="true" />
+            <element signature="e#1345#1391#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/CourseSaveServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/courseInfoManage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scoreInfoManage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/GradeComboListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/de48ef5f-99d6-4392-b7bb-03ff1d1c891a/console_6.sql" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/Web/GradeComboListServlet.class" />
+    <entry file="file://$PROJECT_DIR$/src/Web/LogOutServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Logout.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/GradeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/DrawImageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="117" column="33" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="82" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/gradeInfoManage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bean/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar!/net/sf/json/JSONNull.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar!/net/sf/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2288">
+          <caret line="451" column="64" lean-forward="true" selection-start-line="451" selection-start-column="64" selection-end-line="451" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/StudentDeleteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/StudentSaveServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/studentInfoManage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3078">
+          <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bean/Grade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="82" column="46" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/ResponseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/gradeDeleteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/standardSchemas/xhtml1-transitional.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/courseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/StudentListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Web/ScoreSaveServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>StudentInfoManage:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StudentInfoManage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
